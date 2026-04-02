@@ -21,7 +21,7 @@
 const AxelDev09 = {
   role:      "Bot Developer",
   focus:     ["WhatsApp Bots", "Scrapers", "Automation"],
-  stack:     ["Node.js", "JavaScript", "MongoDB"],
+  stack:     ["Node.js", "HTML", "JavaScript", "MongoDB"],
   currently: "Building ZenBot 🤖",
   contact:   "instagram.com/axeldev09"
 }
